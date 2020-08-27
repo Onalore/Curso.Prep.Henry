@@ -1,0 +1,21 @@
+ 		h1 {
+		color: pink;
+		}
+		
+		img {
+		width: 400px;
+		}
+		
+		#thirdDiv {
+		heigth: 500px;
+		width: 600px;
+		background: orange;
+		padding: 50px;
+		border: 10px solid pink;
+		}
+		
+		#spanId {
+		margin: 50px;
+		font-size: 18px;
+		}
+	  
